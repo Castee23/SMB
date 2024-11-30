@@ -1,0 +1,9 @@
+*.bak
+*.hex
+*.lst
+*.axf
+*.map
+*.uvguix.*
+*.plg
+*.uvoptx
+Objects/
